@@ -1,4 +1,4 @@
-# Python Labs
+# Quant Finance Training
 
 This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
 
