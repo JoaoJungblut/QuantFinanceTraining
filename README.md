@@ -25,5 +25,8 @@ In the `PythonLabs` folder, you will find the following files:
 - **pythonlab17:** *Neural Network*
 - **pythonlab18:** *Reinforcement Learning*
 - **pythonlab19:** *Yield Curve*
+- **pythonlab21:** *Credit Risk Analytics*
+- **pythonlab22:** *Credit Default Swap*
+
 
 
